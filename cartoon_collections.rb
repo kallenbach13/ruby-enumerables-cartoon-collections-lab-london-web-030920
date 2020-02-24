@@ -5,7 +5,7 @@ end
 
 def summon_captain_planet(array)
   new = []
-  array.collect { |element| new << "#{element}!" }
+  array.collect { |element| new << "#{element.capitaliz}!" }
   new
 end
 
