@@ -1,5 +1,6 @@
 def roll_call_dwarves(array)
-  
+  index = 0
+  array.each
 end
 
 def summon_captain_planet# code an argument here
