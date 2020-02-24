@@ -1,5 +1,6 @@
 def roll_call_dwarves(array)
-  gamm array.each_with_index
+  gamma = array.each_with_index
+  gamm
 end
 
 def summon_captain_planet# code an argument here
